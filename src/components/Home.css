@@ -1,0 +1,92 @@
+.header{
+    font-family: "Montserrat",serif;
+    font-weight: bold;
+   
+    font-size: 30px;
+    
+    
+}
+.hero-section{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.home-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.hero-text {
+   font-size: 64px;
+   font-family: "Montserrat",serif;
+   font-weight: bold;
+   margin-bottom: 0px;
+
+}
+.home-btn{
+    margin-top: 60px;
+}
+
+.home-btn input{
+    background-color: rgb(231, 229, 229);
+    color: rgba(0, 0, 0, 1);
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    padding: 15px;
+    text-align: center;
+}
+.get-started{
+   
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 15px;
+    margin-top: 25px;
+}
+
+Link{
+    text-decoration: none;
+}
+.hero-img img{
+    margin-top: -80px;
+    
+}
+.hero-area{
+    
+}
+.hero2{
+    position: relative;
+    left: 19px;
+    color: rgb(84, 79, 79);
+    margin-top: 15px;
+}
+
+@media (max-width:1090px){
+    .header{
+        padding: 10px
+    }
+}
+
+@media(max-width:900px){
+    .hero-text{
+        font-size: 40px;
+    }
+}
+
+@media (max-width:540px){
+    .hero-img img{
+        width: 150px;
+        margin-top: 0px;
+        
+    }
+}
+
+@media (max-width:420px){
+    .hero-img {
+        display: none;
+    }
+}
