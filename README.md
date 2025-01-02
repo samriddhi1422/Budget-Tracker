@@ -19,4 +19,5 @@ A user-friendly Budget Tracker App built with React.js to help you track, analyz
 ![Screenshot 2025-01-03 001333](https://github.com/user-attachments/assets/8450af94-040a-466a-ac65-a59dfdb6fa7e)
 ![Screenshot 2025-01-03 001517](https://github.com/user-attachments/assets/1bf924f4-dccb-4400-8652-c3ceee3d673d)
 ![Screenshot 20![Screenshot 2025-01-03 001447](https://github.com/user-attachments/assets/ba151893-af87-4b8d-b7ca-92e249af9fc2)
-25-01-03 001505](https://github.com/user-attachments/assets/36f1deef-3242-4503-be2c-d54ef9fe4a09)
+
+![Screenshot 2025-01-03 001447](https://github.com/user-attachments/assets/0dcccac1-f72b-40ec-a170-f7c1bc04b362)
